@@ -1,0 +1,25 @@
+.titulo{
+    text-align: center;
+    display: block;
+    color: #1fef8e;
+    font-weight: 800;
+    margin-top: 35px;
+    
+}
+
+.subtitulo {
+    color: blanchedalmond;
+    margin-top: 13px;
+    font-size: 25px;
+}
+
+.texto {
+    color: blanchedalmond;
+    margin-top: 15px;
+    text-align: center;
+    display: block;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-size: 20px;
+    text-align: justify;
+}
